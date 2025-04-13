@@ -1,0 +1,10 @@
+main{
+    border-color: rgb(235, 194, 144);
+}
+.registration -block{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
